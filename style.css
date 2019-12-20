@@ -1,4 +1,4 @@
-/* * {
+* {
     margin: 0;
     padding: 0;
     border: 0;
@@ -92,7 +92,7 @@ hr {
     border: 0;
     clear:both;
     display:block;
-    width: 100%;               
+    width: 100%;
     background-color:rgb(141, 138, 138);
     height: 1px;
   }
@@ -105,7 +105,7 @@ hr {
     margin-bottom: 30px;
 }
 .section.awards {
-    margin-bottom: 0px; 
+    margin-bottom: 0px;
 }
 
 .section h2 a {
@@ -203,7 +203,7 @@ blockquote {
     width: 15%;
 }
 
-.nav li {    
+.nav li {
     margin: 1px 0;
     font-size: 1.5em;
     margin: 5px;
@@ -243,7 +243,7 @@ blockquote {
     list-style: none;
     display: flex;
     justify-content: space-around;
-} 
+}
 
 #contact li {
     display: inline-block;
@@ -256,7 +256,7 @@ blockquote {
     margin: 20px;
     background: white;
   }
-  
+
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
@@ -278,7 +278,7 @@ blockquote {
     align-items: center;
     flex-direction: column;
     justify-content: center;
-   
+
 }
 
 
@@ -347,7 +347,7 @@ blockquote {
 .center {
     width: 40%;
     margin: 30px auto;
-} */
+}
 
 
 
@@ -366,7 +366,7 @@ blockquote {
 a {
     text-decoration: none;
 }
- 
+
 a:link {
     color: #3d5afe;
 }
