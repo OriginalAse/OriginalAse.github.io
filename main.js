@@ -12,6 +12,13 @@
     }
   }
 
+  function goTo(link) {
+    let linkElem = document.createElement("a");
+    linkElem.target = "_blank";
+    linkElem.href = link;
+    linkElem.click();
+  }
+
 // Animating fade ins when scrolled to element
   var animateHTML = function() {
     var elems;
