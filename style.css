@@ -199,6 +199,7 @@ blockquote {
 
 .nav li.section-link {
     margin-left: 10%;
+    cursor: pointer;
 }
 
 .nav li.contact-links {
